@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Go Fuel</string>
+    <string name="email">email</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="opt_in">Opt in to Get Oil Communication</string>
+    <string name="already_have_account">Already have an account?\nClick here to login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="empty" />
+    <string name="home">Home</string>
+    <string name="about">about</string>
+    <string name="phone">Phone</string>
+    <string name="opt_out">Opt out of Get Oil Communication</string>
+    <string name="password">password</string>
+
+</resources>
